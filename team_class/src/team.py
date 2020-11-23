@@ -4,7 +4,6 @@ class Team:
         self.players = players
         self.coach = coach
         self.points = 0
-        #self.play_game = bool
 
 
     def add_player(self,new_player):
